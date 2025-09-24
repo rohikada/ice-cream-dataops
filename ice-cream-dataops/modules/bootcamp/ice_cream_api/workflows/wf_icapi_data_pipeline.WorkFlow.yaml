@@ -1,0 +1,3 @@
+- externalId: wf_icapi_data_pipeline
+  description: Workflow for ICAPI
+  dataSetExternalId: {{icapi_ds_external_id}}

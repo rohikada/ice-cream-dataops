@@ -136,6 +136,7 @@ celerybeat.pid
 
 # Environments
 .env
+.env_test
 .envrc
 .venv
 env/
@@ -143,6 +144,9 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.idea/
+main.py
+
 
 # Spyder project settings
 .spyderproject
@@ -205,3 +209,5 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+ice-cream-dataops/build*
+*venv*
