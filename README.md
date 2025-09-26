@@ -76,8 +76,8 @@ ice-cream-dataops/
 ├── config.test.yaml
 ├── config.prod.yaml
 ├── .github/
-│   └── workflows/
-│       └── deploy.yaml
+    └── workflows/
+        └── deploy.yaml
 ```
 ---
 
