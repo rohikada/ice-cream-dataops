@@ -37,7 +37,7 @@ OEE is a key metric in manufacturing that combines **Availability**, **Performan
 ### 3. 🧬 **Data Modeling**
 - Used **Transformations** to contextualize assets and time series
 - SQL-based logic deployed via CDF Toolkit
-- Scheduled transformations using `.schedule.yaml`
+- Scheduled transformations using `schedule.yaml`
 
 ### 4. 🔁 **Data Orchestration**
 - Defined **Workflows** to coordinate extractors, transformations, and functions
